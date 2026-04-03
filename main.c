@@ -14,7 +14,7 @@ int main(){
         int num2 = 200;
 
         
-        for (i =0; i < 300; i++){
+        for (i =0; i < 600; i++){
             DrawPixel(num1++, num2++, WHITE);
            
             
